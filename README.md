@@ -1,2 +1,2 @@
 # jenks
-batch files for pipeline creation in jenkins
+declarative script for jenkin pipeline using batch files 
